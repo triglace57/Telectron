@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(40, 40, 40);
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 32px;
+}
+div#LastLeason{
+    background-color:#8e44ad;
+    color: #ecf0f1;
+    width: 20vw;
+    height: 25vh;
+    padding: 5px;
+    margin: 0.7em 0.7em 0.3em;
+}
+div#LastLeason h1 {
+    font-size:25px;
+    margin:0.3em 0.4em;
+}
+div#LastLeason h2 {
+    font-size:17px;
+    margin:0.4em 0.4em;
+}
+div#LastLeason h3 {
+    font-size:14px;
+    margin:0.4em 0em;
+}

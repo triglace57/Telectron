@@ -1,0 +1,19 @@
+{
+  "name": "telectron",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "thomas adam",
+  "devDependencies": {
+    "electron": "^9.1.2",
+    "electron-packager": "^15.0.0"
+  },
+  "dependencies": {
+    "asar": "^3.0.3",
+    "cal-parser": "^1.0.1",
+    "request": "^2.88.2"
+  }
+}

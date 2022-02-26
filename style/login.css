@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(40, 40, 40);
+    text-align: center;
+}
+
+div#close {
+    position: absolute;
+    top: 0%;
+    right: 0px;
+    margin: 0px;
+}
+div#close img.cross {
+    margin: 0px;
+}
+
+h1.index {
+    color: whitesmoke;
+    text-shadow: black 2px;
+    margin-top: 25%;
+    font-size: 75px;
+    display: block;
+}
+p.little {
+    margin-bottom: 15px;
+    color: whitesmoke;
+    font-size: 20px;
+    display: block;
+}
